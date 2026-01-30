@@ -114,3 +114,14 @@ Provide standardised technical procedures for post-project verification, discrep
 
 ### Intent
 The framework is intended to support interoperable reporting, comparative technical analysis, procurement specification, lifecycle assessment inputs, and audit-oriented review. It does not prescribe policy decisions, regulatory targets, or market instruments.
+
+---
+
+## Framework version and status
+
+- Version: 0.1
+- Status: Private technical draft
+- Release date: 2026-01
+- Stewardship: Founder-maintained
+- Change control: Controlled, versioned updates only
+
